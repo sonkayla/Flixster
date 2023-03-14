@@ -25,19 +25,20 @@ class DetailViewController: UIViewController {
         // A property to store the track object.
         // We can set this property by passing along the track object associated with the track the user tapped in the table view.
         var poster: Poster!
+        //var movie: Movie!
 
         override func viewDidLoad() {
             super.viewDidLoad()
             
                 // Load the image located at the `artworkUrl100` URL and set it on the image view.
-    //            Nuke.loadImage(with: URL(string: "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/" + movie.backdrop_path.absoluteString)!, into: movieBackground)
-    //
-    //            // Set labels with the associated track values.
-    //            movieTitle.text = movie.title
-    //            movieVoteAvg.text = formattedMovieVoteAvg(with: movie.vote_average)
-    //            movieVoteCount.text = formattedMovieVoteCount(with: movie.vote_count)
-    //            moviePop.text = formattedMovieVotePop(with: movie.popularity)
-    //            testingDescript.text = movie.overview
+//            Nuke.loadImage(with: URL(string: "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/" + movie.backdrop_path.absoluteString)!, into: movieBackground)
+//
+//                // Set labels with the associated track values.
+//            movieTitle.text = movie.title
+//            movieVoteAvg.text = formattedMovieVoteAvg(with: movie.vote_average)
+//            movieVoteCount.text = formattedMovieVoteCount(with: movie.vote_count)
+//            moviePop.text = formattedMovieVotePop(with: movie.popularity)
+//            testingDescript.text = movie.overview
             
             Nuke.loadImage(with: URL(string: "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/" + poster.backdrop_path.absoluteString)!, into: movieBackground)
 

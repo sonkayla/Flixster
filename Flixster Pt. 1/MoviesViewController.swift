@@ -112,13 +112,13 @@ class ViewController: UIViewController, UITableViewDataSource {
 //           // Get the index path of the cell from the table view
 //           let indexPath = tableView.indexPath(for: cell),
 //           // Get the detail view controller
-//           let altDetailViewController = segue.destination as? AltDetailViewController {
+//           let detailViewController = segue.destination as? DetailViewController {
 //
 //            // Use the index path to get the associated track
 //            let movie = movies[indexPath.row]
 //
 //            // Set the track on the detail view controller
-//            altDetailViewController.movie = movie
+//            detailViewController.movie = movie
 //        }
 //
 //
