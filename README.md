@@ -2,7 +2,7 @@
 
 Submitted by: **Kayla Son**
 
-**Flixster Pt.2** is an app that introduces networking into our previous porject where we utilize URLSesion as able is create a navigation tab bar to provide different formats through UITabBarController and UICollectionView.
+**Flixster Pt.2** is an app that is continuing with Flixster. It uses Postman, a popular network debugging tool, and add the ability to fetch real data from a third party server! It involves collection views and tab bar controllers, both very common UI patterns found in apps. Collection views allow for more flexible UI layouts, and this app will demonstrate a grid-like UI to view movies in a more visual manner.
 
 Time spent: **9** hours spent in total
 
