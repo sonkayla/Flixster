@@ -1,8 +1,8 @@
-# Personal Flixster
+# RateFlix
 
 Submitted by: **Kayla Son**
 
-**Personal Flixster** is a movie-browsing app similar to Flixster. It uses Postman, a popular network debugging tool, and adds the ability to fetch real data from a third-party server. This includes collection views and tab bar controllers. It allows users to log into their account to track movies that have already been watched and personal ratings.
+**RateFlix** is a movie-browsing app that allows users to view real-data ratings and descriptions. It uses Postman, a popular network debugging tool, and adds the ability to fetch real data from a third-party server. This includes collection views and tab bar controllers. It allows users to log into their account to track movies that have already been watched and personal ratings.
 
 ## Features
 
@@ -12,6 +12,9 @@ Submitted by: **Kayla Son**
 - [x] Login and Sign Up screen for user's accounts
 - [x] A section for users to personally rate the move themselves
 - [x] A marking option for users to keep track of the movies they have already watched
+- [x] See a customized app icon and launch screen
+- [x] Works for any screen size and orientation using AutoLayout constraints
+- [x] Can tap into a detailed view of the movie with a full description, backdrop image, and title
 
 ## Video Walkthrough
 
