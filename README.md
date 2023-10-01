@@ -1,8 +1,8 @@
-# Flixster
+# Personal Flixster
 
 Submitted by: **Kayla Son**
 
-**Flixster** is an app that is continuing with Flixster. It uses Postman, a popular network debugging tool, and adds the ability to fetch real data from a third-party server. It involves collection views and tab bar controllers, both very common UI patterns found in apps. Collection views allow for more flexible UI layouts, and this app will demonstrate a grid-like UI to view movies in a more visual manner.
+**Personal Flixster** is a movie-browsing app similar to Flixster. It uses Postman, a popular network debugging tool, and adds the ability to fetch real data from a third-party server. This includes collection views and tab bar controllers. It allows users to log into their account to track movies that have already been watched and personal ratings.
 
 ## Features
 
