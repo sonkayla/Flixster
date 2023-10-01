@@ -2,26 +2,16 @@
 
 Submitted by: **Kayla Son**
 
-**Flixster** is an app that is continuing with Flixster. It uses Postman, a popular network debugging tool, and add the ability to fetch real data from a third party server! It involves collection views and tab bar controllers, both very common UI patterns found in apps. Collection views allow for more flexible UI layouts, and this app will demonstrate a grid-like UI to view movies in a more visual manner.
+**Flixster** is an app that is continuing with Flixster. It uses Postman, a popular network debugging tool, and adds the ability to fetch real data from a third-party server. It involves collection views and tab bar controllers, both very common UI patterns found in apps. Collection views allow for more flexible UI layouts, and this app will demonstrate a grid-like UI to view movies in a more visual manner.
 
-Time spent: **9** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+## Features
 
 - [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
 - [x] App has a collection view with the same list of movies
 - [x] Uses a tab bar controller to switch between collection view and table view screens
- 
-The following **optional** features are implemented:
-
-- [ ] Make an additional network call to another end-point.    
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Login and Sign Up screen for user's accounts
+- [x] A section for users to personally rate the move themselves
+- [x] A marking option for users to keep track of the movies they have already watched
 
 ## Video Walkthrough
 
@@ -35,12 +25,6 @@ GIF created with Kap
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-I had a really a hard time grasping the concept of the code adn why each portion does what but after messing around with the lab I was able to get the hang of it.
 
 ## License
 
